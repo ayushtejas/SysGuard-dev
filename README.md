@@ -34,3 +34,8 @@ It can be challenging for a user to remember many passwords from various website
 -Maintainability: User would be prompted to change passwords from different image dataset.
 -Portability: Multi-browser support.
 -Capacity: Highly compressed images with a large dataset.
+
+**Workflow**
+
+![image](https://user-images.githubusercontent.com/60222440/192871130-3d27561b-5c98-492e-8d6c-b8e582a66ba5.png)
+
