@@ -39,13 +39,17 @@ It can be challenging for a user to remember many passwords from various website
 
 ![image](https://user-images.githubusercontent.com/60222440/192871130-3d27561b-5c98-492e-8d6c-b8e582a66ba5.png)
 
-**devsecops**
+**Devsecops**
 
 ![image](https://user-images.githubusercontent.com/60222440/195506882-cbf0be62-efb5-488a-8565-2c5eb225f871.png)
 
-**product architecture**
+**Product Architecture**
 
 ![image](https://user-images.githubusercontent.com/60222440/195506975-7f290190-33f4-4f05-b9d5-6c1bf80b0c90.png)
+
+**Product Video**
+
+https://user-images.githubusercontent.com/60222440/196608998-640208eb-2433-41c4-8ab7-3a4ccd5ee545.mp4
 
 
 
