@@ -37,7 +37,7 @@ It can be challenging for a user to remember many passwords from various website
 
 **Workflow**
 
-![image](https://user-images.githubusercontent.com/60222440/192871130-3d27561b-5c98-492e-8d6c-b8e582a66ba5.png)
+![image](https://user-images.githubusercontent.com/60222440/196649633-12779ab7-d683-4671-83e2-a0eee2da8b6e.png)
 
 **Devsecops**
 
