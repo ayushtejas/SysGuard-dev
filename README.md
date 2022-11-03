@@ -49,7 +49,5 @@ It can be challenging for a user to remember many passwords from various website
 
 **Product Video**
 
-https://user-images.githubusercontent.com/60222440/196608998-640208eb-2433-41c4-8ab7-3a4ccd5ee545.mp4
-
-
+https://user-images.githubusercontent.com/57862128/199692049-ad26cec2-5f2f-4d92-ae40-950fc6fdb878.mp4
 
